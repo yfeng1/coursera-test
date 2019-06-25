@@ -1,0 +1,38 @@
+
+/* Header */
+
+.navbar-brand h1 {
+	margin: 0 auto 0;
+	line-height: .75;
+}
+
+#nav-list {
+  margin-top: 10px;
+  background-color: green;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  clear : both;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+/* Main content */
+
+#main-content section {
+	background-color: pink;
+	margin: 0 10px 20px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
